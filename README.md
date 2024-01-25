@@ -45,4 +45,4 @@ Good day! I am **Christian Jay Cuevas**, an undergraduate student currently purs
 
 
 ## FUTURE APPLICATIONS OF EACH HANDS-ON:
-1. 
+1. It can be used for a refresher when programming with python.
