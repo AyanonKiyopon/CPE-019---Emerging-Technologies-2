@@ -23,7 +23,6 @@ Good day! I am **Christian Jay Cuevas**, an undergraduate student currently purs
      > (string.format(value1, value2...))
    * You can get a specific value or access a nested list by using multiple indices.
      > (lst = ['a','b',[4,10,11],['c',[1,66,['this']],2,111],'e',7]
-     
      > print(lst[3][1][2][0]))
    * You can get a specific value or access a nested dictionary by using multiple indices.
      >d = {'k1':['val1','val2','val3',{'we':['need','to','go',{'deeper':[1,2,3,'that']}]}]}
