@@ -17,7 +17,8 @@ Good day! I am **Christian Jay Cuevas**, an undergraduate student currently purs
 
 ## HOW EVERY HANDS-ON WORKS AND SUMMARY OF LEARNINGS:
 1. Basic programming with python which can be executed in the Google Colab. Includes basic manipulation of lists, dictionaries, basic built-in functions, creation of functions, and creation of classes.
-   > TO split strings, use .split() which creates a list of the separated strings. The default separator is whitespace but the parameters of .split() allows you to specify the separator and maxsplit. .split(separator, maxsplit)
+   > TO split strings, use .split() which creates a list of the separated strings. The default separator is whitespace but the parameters of .split() allows you to specify the separator and maxsplit.
+   > .split(separator, maxsplit)
    
 
 
