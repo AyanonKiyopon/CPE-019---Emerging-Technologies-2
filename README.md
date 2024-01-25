@@ -1,4 +1,4 @@
-# CPE-019-Emerging-Technologies-2
+![56535f97-ecf6-4031-9a97-4cfda4ecbdb7](https://github.com/AyanonKiyopon/CPE-019---Emerging-Technologies-2/assets/143265700/f34196aa-4ae2-4327-8855-d7a306053b04)# CPE-019-Emerging-Technologies-2
 ## INTRODUCTION:
 Good day! I am **Christian Jay Cuevas**, an undergraduate student currently undertaking BS in Computer Engineering in Technological Institute of the Philippines - Quezon City. This repository is used for the hands-on activities in our course which is the Emerging Technologies 2. The activities here will be mainly python based and will be focused in machine learning. 
 
