@@ -42,7 +42,7 @@ Good day! I am **Christian Jay Cuevas**, an undergraduate student currently purs
      > 
      > return x[i+1:]
 
-
+2. The usage of SQLite adds an additional capability to the tradational python programming. It allows us to manipulate databases without the need for a separated software like MySQL. 
 
 ## FUTURE APPLICATIONS OF EACH HANDS-ON:
 1. It can be used for a refresher when programming with python.
