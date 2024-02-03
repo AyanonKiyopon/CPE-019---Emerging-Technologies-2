@@ -7,12 +7,12 @@ Good day! I am **Christian Jay Cuevas**, an undergraduate student currently purs
 
 ## TABLE OF CONTENTS:
 1. **Hands-On 1.1** - Python Challenge (Not Recorded and No Folder)
-2. **Hands-On 2** ...
+2. **Hands-On 2.1** - Working-with-Python-and-SQLite 
 3. **Hands-On 3** ...
 
 ## DESCRIPTION OF EACH HANDS-ON:
 1. An assessment of our python capabilities which will be used as a basis for the pacing of our course.
-
+2. An activity which introduces us to SQLite functions and how to integrate it to python language.
 
 
 ## HOW EVERY HANDS-ON WORKS AND SUMMARY OF LEARNINGS:
